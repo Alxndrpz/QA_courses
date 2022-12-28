@@ -1,0 +1,2 @@
+Checklist Structure:
+ID, Title, STR, Result
